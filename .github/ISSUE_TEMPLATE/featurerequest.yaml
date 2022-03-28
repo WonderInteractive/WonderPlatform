@@ -23,7 +23,7 @@ body:
       label: Desired feature.
       description: Please, give as much detail as possible.
       placeholder: Tell us what you see!
-      value: ""
+      value: "Some feature"
     validations:
       required: true
   - type: checkboxes
